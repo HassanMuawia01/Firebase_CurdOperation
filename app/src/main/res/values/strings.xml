@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_task">Enter your Task</string>
+    <string name="delete">Delete</string>
+    <string name="show_data">Show Data</string>
+    <string name="update">Update</string>
+</resources>
